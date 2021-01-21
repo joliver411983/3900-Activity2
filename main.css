@@ -1,0 +1,18 @@
+/*************************************
+GENERAL
+**************************************/
+img {
+width: 10%;
+heigth: auto;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+}
+
+
+#wrapper {
+
+  margin: 0 auto;
+
+}
